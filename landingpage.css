@@ -1,0 +1,26 @@
+body{
+	background-image: url(landingpage.jpg);
+	height: 3px;
+}
+input{
+	border-color: blue;
+	font-family: cursive;
+	width: 150px;
+	font-size: 20px;
+	text-align: center;
+	height: 30px;
+}
+img{
+	height: 350px;
+	width: 800px;
+}
+.body{
+	display: inline-flex;
+	text-align: left;
+	color: white;
+}
+h2{
+	font-size: 40px;
+	font-family: cursive;
+	color: white;
+}
